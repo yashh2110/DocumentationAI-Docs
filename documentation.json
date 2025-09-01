@@ -1,10 +1,10 @@
 {
   "name": "Documentation AI App",
   "initialRoute": "introduction",
-  "logo-small-light": "https://dxbnflddnlunfgvtqukc.supabase.co/storage/v1/object/public/documentation-images/org-96d3f74a-c743-4558-b57d-55ba958dcc0d/doc-b2985ceb-da68-4a84-b0e4-c87a4c80dece/1755869808317-6pgpd6a7aeb-logo-icon-dark.png",
-  "logo-small-dark": "https://dxbnflddnlunfgvtqukc.supabase.co/storage/v1/object/public/documentation-images/org-96d3f74a-c743-4558-b57d-55ba958dcc0d/doc-b2985ceb-da68-4a84-b0e4-c87a4c80dece/1755869828493-ik3dg014vl-logo-icon-light.png",
-  "logo-light": "https://dxbnflddnlunfgvtqukc.supabase.co/storage/v1/object/public/documentation-images/org-96d3f74a-c743-4558-b57d-55ba958dcc0d/doc-b2985ceb-da68-4a84-b0e4-c87a4c80dece/1755869861610-qihiw0j9ph-logo-full-dark.png",
-  "logo-dark": "https://dxbnflddnlunfgvtqukc.supabase.co/storage/v1/object/public/documentation-images/org-96d3f74a-c743-4558-b57d-55ba958dcc0d/doc-b2985ceb-da68-4a84-b0e4-c87a4c80dece/1755869845271-b2wegksaik-logo-full-light.png",
+  "logo-small-light": "https://fdjsuzcsbmpqsraaooua.supabase.co/storage/v1/object/public/documentation-images/org-3c59c0be-2a43-4f58-bb93-be20f1c05215/doc-02bc87e1-b3eb-4bc8-a539-0eb8f60ca9e9/1756733934909-6qql4uoja84-logo-icon-dark.png",
+  "logo-small-dark": "https://fdjsuzcsbmpqsraaooua.supabase.co/storage/v1/object/public/documentation-images/org-3c59c0be-2a43-4f58-bb93-be20f1c05215/doc-02bc87e1-b3eb-4bc8-a539-0eb8f60ca9e9/1756733918863-tcnqwa623qp-logo-icon-light.png",
+  "logo-light": "https://fdjsuzcsbmpqsraaooua.supabase.co/storage/v1/object/public/documentation-images/org-3c59c0be-2a43-4f58-bb93-be20f1c05215/doc-02bc87e1-b3eb-4bc8-a539-0eb8f60ca9e9/1756733898484-f1i0ir8y8zu-logo-full-light.png",
+  "logo-dark": "https://fdjsuzcsbmpqsraaooua.supabase.co/storage/v1/object/public/documentation-images/org-3c59c0be-2a43-4f58-bb93-be20f1c05215/doc-02bc87e1-b3eb-4bc8-a539-0eb8f60ca9e9/1756733873391-0yov32z139x-logo-full-dark.png",
   "colors": {
     "light": {
       "brand": "#171717"
@@ -13,7 +13,7 @@
       "brand": "#fafafa"
     }
   },
-  "favicon": "https://dxbnflddnlunfgvtqukc.supabase.co/storage/v1/object/public/documentation-images/org-96d3f74a-c743-4558-b57d-55ba958dcc0d/doc-b2985ceb-da68-4a84-b0e4-c87a4c80dece/1755871238696-ljhntcaoi6i-favicon.ico",
+  "favicon": "https://fdjsuzcsbmpqsraaooua.supabase.co/storage/v1/object/public/documentation-images/org-3c59c0be-2a43-4f58-bb93-be20f1c05215/doc-02bc87e1-b3eb-4bc8-a539-0eb8f60ca9e9/1756469107955-vwcyxuttupm-favicon.ico",
   "navbar": {
     "actions": {
       "primary": {
